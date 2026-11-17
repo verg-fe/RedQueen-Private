@@ -1,0 +1,9 @@
+*.obj
+*.exe
+*.exp
+*.lib
+*.bak_*
+*.map
+check_code.*
+diag*.*
+read_patches.py
