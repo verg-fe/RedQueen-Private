@@ -3,7 +3,7 @@
 基于 Direct3D 9 运行时 Hook（`d3d9.dll` 劫持）的红警3本地全功能战争迷雾清除方案。
 
 ## 核心特性
-- **零联机 OOS（Out of Sync）**：不修改任何 Simulation 游戏同步状态，完全保持战网联机 100% 同步。
+- **零联机 OOS（Out of Sync）**：不修改任何 Simulation 游戏同步状态，完全保持局域网联机 100% 同步。
 - **纯 Presentation/D3D9 呈现层旁路**：劫持 `IDirect3DDevice9` 虚表与 Shroud 纹理状态。
 - **独立热键**：`F9`（迷雾开关）、`F10`（强放超武）、`F8`（隐形）、`F12`（全图建造）。
 
